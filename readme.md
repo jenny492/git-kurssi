@@ -1,1 +1,1 @@
-Tähän tulee readme
+Git-harjoitus
